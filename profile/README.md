@@ -1,5 +1,5 @@
 # Tenycircle.jsの短縮URL
-少し長いしね
+少し長いからね
 <!--
 
 **Here are some ideas to get you started:**
